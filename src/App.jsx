@@ -14,7 +14,7 @@ export default function App() {
     </header>
     <BrowserRouter>
     <Routes>
-      <Route />
+      {/* <Route /> */}
       </Routes>
       </BrowserRouter>
     </>
